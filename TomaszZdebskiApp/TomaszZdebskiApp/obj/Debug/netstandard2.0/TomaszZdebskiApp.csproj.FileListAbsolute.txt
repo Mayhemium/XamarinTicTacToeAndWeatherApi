@@ -1,0 +1,14 @@
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\bin\Debug\netstandard2.0\TomaszZdebskiApp.deps.json
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\bin\Debug\netstandard2.0\TomaszZdebskiApp.dll
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\bin\Debug\netstandard2.0\TomaszZdebskiApp.pdb
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.csprojAssemblyReference.cache
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.csproj.CoreCompileInputs.cache
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.AssemblyInfoInputs.cache
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.AssemblyInfo.cs
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.dll
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\TomaszZdebskiApp.pdb
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\View\TicTacToePage.xaml.g.cs
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\View\WeatherPage.xaml.g.cs
+C:\Users\tomzd\source\repos\TomaszZdebskiApp\TomaszZdebskiApp\TomaszZdebskiApp\obj\Debug\netstandard2.0\XamlC.stamp
